@@ -1,0 +1,14 @@
+.todoTitle {
+    display: flex;
+    align-items: center;
+    padding: 0;
+    margin:0;
+}
+.date {
+    display: inline-flex;
+    width: auto;
+    background-color: #f5e9e9;
+    border-radius: 4px;
+    padding: 0 5px;
+    margin-bottom: 5px;
+}
