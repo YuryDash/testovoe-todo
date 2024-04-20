@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/testovoe-todo/static/css/main.8158eb60.css",
+    "main.js": "/testovoe-todo/static/js/main.d0adfc0c.js",
+    "index.html": "/testovoe-todo/index.html",
+    "main.8158eb60.css.map": "/testovoe-todo/static/css/main.8158eb60.css.map",
+    "main.d0adfc0c.js.map": "/testovoe-todo/static/js/main.d0adfc0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8158eb60.css",
+    "static/js/main.d0adfc0c.js"
+  ]
+}
